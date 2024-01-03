@@ -19,6 +19,7 @@
 		070AC9342B3B64860069805C /* PeopleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070AC9332B3B64860069805C /* PeopleView.swift */; };
 		070AC9362B3B6CAE0069805C /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070AC9352B3B6CAE0069805C /* Event.swift */; };
 		070AC9382B3B6E0F0069805C /* EditEventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070AC9372B3B6E0F0069805C /* EditEventView.swift */; };
+		070AC93A2B44F5650069805C /* Previewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070AC9392B44F5650069805C /* Previewer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		070AC9332B3B64860069805C /* PeopleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleView.swift; sourceTree = "<group>"; };
 		070AC9352B3B6CAE0069805C /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
 		070AC9372B3B6E0F0069805C /* EditEventView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditEventView.swift; sourceTree = "<group>"; };
+		070AC9392B44F5650069805C /* Previewer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Previewer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				070AC9072B3B5A7E0069805C /* ContentView.swift */,
 				070AC9352B3B6CAE0069805C /* Event.swift */,
 				070AC9372B3B6E0F0069805C /* EditEventView.swift */,
+				070AC9392B44F5650069805C /* Previewer.swift */,
 				070AC9332B3B64860069805C /* PeopleView.swift */,
 				070AC9312B3B5E080069805C /* EditPersonView.swift */,
 				070AC92F2B3B5AF00069805C /* Person.swift */,
@@ -275,6 +278,7 @@
 				070AC9302B3B5AF00069805C /* Person.swift in Sources */,
 				070AC9342B3B64860069805C /* PeopleView.swift in Sources */,
 				070AC9082B3B5A7E0069805C /* ContentView.swift in Sources */,
+				070AC93A2B44F5650069805C /* Previewer.swift in Sources */,
 				070AC9062B3B5A7E0069805C /* FaceFactsApp.swift in Sources */,
 				070AC9362B3B6CAE0069805C /* Event.swift in Sources */,
 				070AC9322B3B5E080069805C /* EditPersonView.swift in Sources */,

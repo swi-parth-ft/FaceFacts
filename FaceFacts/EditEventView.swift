@@ -19,6 +19,13 @@ struct EditEventView: View {
     }
 }
 
-//#Preview {
-//    EditEventView()
-//}
+#Preview {
+    do {
+        let previewer = try Previewer()
+        
+        return EditPersonView(person: previewer.person, navigationPath: .constant(NavigationPath()))
+            .modelContainer(previewer.container)
+    } catch {
+        return Text("Failed")
+    }
+}
